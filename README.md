@@ -11,7 +11,7 @@ https://developers.google.com/maps/documentation/places/web-service/get-api-key
 
 ## 1. Replace to your API key inside the index.html and environment.ts file
 
-<script src="https://maps.googleapis.com/maps/api/js?key=<Your API KEY>&libraries=places&language=en"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=<Your_API_KEY>&libraries=places&language=en"></script>
 
 # Angular-Autocomplete-Form
 
