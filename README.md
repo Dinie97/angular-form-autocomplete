@@ -1,3 +1,18 @@
+
+[form-test.webm](https://user-images.githubusercontent.com/51571197/212807851-a6105d34-2335-4333-8b2c-6ef8089b46a9.webm)
+
+## NPM Package
+
+https://www.npmjs.com/package/ngx-google-places-autocomplete
+
+## How To get API KEY
+
+https://developers.google.com/maps/documentation/places/web-service/get-api-key
+
+## 1. Replace to your API key inside the index.html and environment.ts file
+
+<script src="https://maps.googleapis.com/maps/api/js?key=<Your API KEY>&libraries=places&language=en"></script>
+
 # Angular-Autocomplete-Form
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
